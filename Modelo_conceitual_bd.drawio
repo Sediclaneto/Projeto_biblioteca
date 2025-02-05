@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="3dJtP6y-i1VXrLTv7_gE">
-    <mxGraphModel dx="1707" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -369,6 +369,15 @@
         </mxCell>
         <mxCell id="ZdWaQ46oYQcRzxQLmsZE-14" value="(1, n)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-370" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HIy5Vhsk_iGlTkI22Lfn-1" value="Adicionar uma entidade-ralacionamento &quot;Gêneros&quot; para cadastrar os múltiplos gêneros que um livro pode ter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="265" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIy5Vhsk_iGlTkI22Lfn-2" value="Expandir os detalhes do usuário oara incluir servidores e, talvez, terceirizados, dentro do sistema, atribuindo à eles informações próprias para identificação" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-150" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HIy5Vhsk_iGlTkI22Lfn-3" value="Adicionar &quot;email&#39; enquanto atributo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
